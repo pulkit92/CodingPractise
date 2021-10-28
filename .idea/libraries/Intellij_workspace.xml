@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Intellij_workspace">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SocialNetwork.zip!/" />
+      <root url="jar://$PROJECT_DIR$/InMemoryDB.zip!/" />
+      <root url="jar://$PROJECT_DIR$/crud.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodingQuestion/CodingQuestion.iml" filepath="$PROJECT_DIR$/CodingQuestion/CodingQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CsvReader/CsvReader.iml" filepath="$PROJECT_DIR$/CsvReader/CsvReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design_and_ood_question/Design_and_ood_question.iml" filepath="$PROJECT_DIR$/Design_and_ood_question/Design_and_ood_question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ELBAnalyzer/ELBAnalyzer1.iml" filepath="$PROJECT_DIR$/ELBAnalyzer/ELBAnalyzer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExpenseMangement/ExpenseMangement.iml" filepath="$PROJECT_DIR$/ExpenseMangement/ExpenseMangement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InMemoryDB/InMemoryDB.iml" filepath="$PROJECT_DIR$/InMemoryDB/InMemoryDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intellij_workspace.iml" filepath="$PROJECT_DIR$/Intellij_workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Old_coding_and_java_question/Old_coding_and_java_question.iml" filepath="$PROJECT_DIR$/Old_coding_and_java_question/Old_coding_and_java_question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingSystem/ParkingSystem.iml" filepath="$PROJECT_DIR$/ParkingSystem/ParkingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocialNetwork/SocialNetwork.iml" filepath="$PROJECT_DIR$/SocialNetwork/SocialNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess/chess.iml" filepath="$PROJECT_DIR$/chess/chess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commultilevel/commultilevel.iml" filepath="$PROJECT_DIR$/commultilevel/commultilevel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crud/crud.iml" filepath="$PROJECT_DIR$/crud/crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orglms/orglms.iml" filepath="$PROJECT_DIR$/orglms/orglms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/out.iml" filepath="$PROJECT_DIR$/out/out.iml" />
+    </modules>
+  </component>
+</project>

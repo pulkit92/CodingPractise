@@ -1,0 +1,20 @@
+
+c
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ÕÚÌÙıÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(âŞíá
+E
+java:S6212"/Declare this local variable with "var" instead.(ã¶¡À
+S
+java:S1197&"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+J
+java:S6212'"/Declare this local variable with "var" instead.(‘ÅĞ¢ıÿÿÿÿ
+J
+java:S6212("/Declare this local variable with "var" instead.(–õæÿüÿÿÿÿ
+J
+java:S6212)"/Declare this local variable with "var" instead.(ñ¢Õùüÿÿÿÿ
+E
+java:S6212*"/Declare this local variable with "var" instead.(ñŸñ
+J
+java:S62123"/Declare this local variable with "var" instead.(´Ûßÿÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(æØú“

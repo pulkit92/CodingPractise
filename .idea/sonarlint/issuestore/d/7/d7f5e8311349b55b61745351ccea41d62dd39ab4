@@ -1,0 +1,32 @@
+
+c
+java:S38249"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ÙÎ­Öúÿÿÿÿ
+k	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ’…µüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(â˜äƒÿÿÿÿÿ
+E
+java:S6212:"/Declare this local variable with "var" instead.(èá™Š
+J
+java:S6212E"/Declare this local variable with "var" instead.(©ŒºÉûÿÿÿÿ
+E
+java:S6212G"/Declare this local variable with "var" instead.(ìüà·
+J
+java:S6212Q"/Declare this local variable with "var" instead.(çªœÊûÿÿÿÿ
+S
+java:S1197V"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+E
+java:S6212W"/Declare this local variable with "var" instead.(ø–Ñÿ
+Q	java:S125X"<This block of commented-out lines of code should be removed.( ‚¶¥
+V	java:S125Y"<This block of commented-out lines of code should be removed.(ø÷‘Úùÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(Ëúı½ÿÿÿÿÿ
+V	java:S125["<This block of commented-out lines of code should be removed.(‹¯Û–ûÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(ê»¿ú
+Q	java:S125\"<This block of commented-out lines of code should be removed.(«¦û
+Q	java:S125]"<This block of commented-out lines of code should be removed.(ê»¿ú
+V	java:S125^"<This block of commented-out lines of code should be removed.(»²€üÿÿÿÿ
+V	java:S125_"<This block of commented-out lines of code should be removed.(ÙÁüÓüÿÿÿÿ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(ªÁû·
+V	java:S125`"<This block of commented-out lines of code should be removed.(‘éæ¿şÿÿÿÿ
+Q	java:S125a"<This block of commented-out lines of code should be removed.(ªÁû·

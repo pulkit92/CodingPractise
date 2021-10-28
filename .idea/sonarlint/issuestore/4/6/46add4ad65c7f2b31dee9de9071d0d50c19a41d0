@@ -1,0 +1,22 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦§„Óüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦§„Óüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŞÓ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸õÚæøÿÿÿÿ
+y
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(“Ñ½Šúÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(à†’²
+J
+java:S6212"/Declare this local variable with "var" instead.(šüñÔøÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(óÿáÎûÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ÇŞÓ
+J
+java:S6212"/Declare this local variable with "var" instead.(¸õÚæøÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ÑÀéø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©‹¨î

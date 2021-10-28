@@ -1,0 +1,67 @@
+Sample Input
+
+SHOW
+
+
+No balances
+
+
+SHOW user1
+
+No balances
+
+
+EXPENSE user1 1000 4 user1 user2 user3 user4 EQUAL
+
+SHOW user4
+
+User4 owes User1: 250
+
+SHOW user1
+
+User2 owes User1: 250
+
+User3 owes User1: 250
+
+User4 owes User1: 250
+
+EXPENSE user1 1250 2 user2 user3 EXACT 370 880
+
+SHOW
+
+User2 owes User1: 620
+
+User3 owes User1: 1130
+
+User4 owes User1: 250
+
+SHOW user1
+
+User4 owes User1: 250
+
+User2 owes User1: 620
+
+User3 owes User1: 1130
+
+SHOW
+
+Sample Output
+
+
+
+
+
+
+
+
+
+User1 owes User4: 230
+
+User2 owes User1: 620
+
+User2 owes User4: 240
+
+User3 owes User1: 1130
+
+User3 owes User4: 240
+

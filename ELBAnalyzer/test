@@ -1,0 +1,7 @@
+Content Analysis Algo:   1. Print out all the client IP addresses in each file.
+2. Print “user_agent” string in each file
+3. print out the top 10 user agents in order of most requests
+4. print out the top 10 URLs in the requests in order
+5. Print out the top client IP address - the one that made the most requests
+6. Generalise the script - extend the script to be able to calculate the top N of any field
+7. Analyse the data over time

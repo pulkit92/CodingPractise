@@ -1,0 +1,14 @@
+@startuml
+azure_vpc_lookup -> observer_ip : call
+observer_ip -> mac : mac lookup
+mac -> resource_bean : resource lookup
+resource_bean -> virtual_network_id : virtual network lookup
+virtual_network_id -> cidr_range : if IP falls in cidr_range
+cidr_range --> azure_vpc_lookup : virtual_network_id
+virtual_network_id -> cidr_range : else IP not in cidr_range
+cidr_range -> virtual_network_peering_table : get all the peered vpcs
+virtual_network_peering_table -> cidr_range: check returned vpcs
+cidr_range--> azure_vpc_lookup : if matching vpcs found
+
+
+@enduml

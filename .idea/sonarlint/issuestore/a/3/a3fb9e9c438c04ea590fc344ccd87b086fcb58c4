@@ -1,0 +1,18 @@
+
+0
+java:S1220""Move this file to a named package.
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”ú£ö
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(æ…¢¸üÿÿÿÿ
+S
+java:S1197&"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+J
+java:S6212'"/Declare this local variable with "var" instead.(£¬‘Ñıÿÿÿÿ
+V	java:S1253"<This block of commented-out lines of code should be removed.(Ûª†Öüÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Œ‰Òşşÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(•Ø¤
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¼ªÅ˜øÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(µü™ùÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(°°ú½ùÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ËÿÑÿÿÿÿÿ

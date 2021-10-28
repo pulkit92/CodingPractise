@@ -1,0 +1,18 @@
+
+\
+java:S1192<"GDefine a constant instead of duplicating this literal "bombay" 4 times.(Û‰ì
+]
+java:S1192="GDefine a constant instead of duplicating this literal "madras" 4 times.(ÈÌÞÙ
+_
+java:S1192>"IDefine a constant instead of duplicating this literal "calcutta" 4 times.(“Ù´³
+[
+java:S1192<"FDefine a constant instead of duplicating this literal "delhi" 4 times.(Û‰ì
+T
+java:S1854"9Remove this useless assignment to local variable "value".(æÌÆôþÿÿÿÿ
+S
+java:S1197:"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+E
+java:S6212;"/Declare this local variable with "var" instead.(Âãƒ¸
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(ÓýÑá
+E
+java:S1481"*Remove this unused "value" local variable.(æÌÆôþÿÿÿÿ

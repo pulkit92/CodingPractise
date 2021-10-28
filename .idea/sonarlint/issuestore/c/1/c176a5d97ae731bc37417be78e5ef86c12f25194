@@ -1,0 +1,26 @@
+
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ’…µüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+E
+java:S6212%"/Declare this local variable with "var" instead.(æÕ¿¼
+J
+java:S6212&"/Declare this local variable with "var" instead.(©ŒºÉûÿÿÿÿ
+E
+java:S6212("/Declare this local variable with "var" instead.( ¼Â•
+S
+java:S1197B"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+J
+java:S6212C"/Declare this local variable with "var" instead.(—½’§ûÿÿÿÿ
+Q	java:S125D"<This block of commented-out lines of code should be removed.( ‚¶¥
+V	java:S125E"<This block of commented-out lines of code should be removed.(ø÷‘Úùÿÿÿÿ
+V	java:S125F"<This block of commented-out lines of code should be removed.(Ëúý½ÿÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(‹¯Û–ûÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ê»¿ú
+Q	java:S125H"<This block of commented-out lines of code should be removed.(«¦û
+Q	java:S125I"<This block of commented-out lines of code should be removed.(ê»¿ú
+V	java:S125J"<This block of commented-out lines of code should be removed.(»²€üÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(ÙÁüÓüÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ªÁû·
+V	java:S125L"<This block of commented-out lines of code should be removed.(‘éæ¿þÿÿÿÿ
+Q	java:S125M"<This block of commented-out lines of code should be removed.(ªÁû·

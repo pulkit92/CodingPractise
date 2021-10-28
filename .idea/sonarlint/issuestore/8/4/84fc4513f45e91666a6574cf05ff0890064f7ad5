@@ -1,0 +1,20 @@
+
+E
+java:S3740D"/Provide the parametrized type for this generic.(À÷ôþ
+V	java:S125	"<This block of commented-out lines of code should be removed.(ü¾µ¿þÿÿÿÿ
+S
+java:S1197*"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+J
+java:S6212+"/Declare this local variable with "var" instead.(ºÒºîøÿÿÿÿ
+S
+java:S1197+"8Move the array designator from the variable to the type.(ºÒºîøÿÿÿÿ
+E
+java:S6212,"/Declare this local variable with "var" instead.(†ÙÿÁ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(âÔªâ
+E
+java:S62124"/Declare this local variable with "var" instead.(‡Æýí
+E
+java:S62125"/Declare this local variable with "var" instead.(Í¶ä
+E
+java:S62127"/Declare this local variable with "var" instead.(ÀýÆÑ
+V	java:S125H"<This block of commented-out lines of code should be removed.(Æùºïþÿÿÿÿ

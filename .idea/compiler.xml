@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CsvReader" />
+        <module name="ELBAnalyzer1" />
+        <module name="ExpenseMangement" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CsvReader" target="11" />
+      <module name="ELBAnalyzer" target="11" />
+      <module name="ELBAnalyzer1" target="11" />
+      <module name="ExpenseMangement" target="11" />
+      <module name="newchess" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "out".(³±ıÑ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ù†ÆËøÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(“§ìãúÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(—ÚşÍûÿÿÿÿ
+>
+java:S1481"(Remove this unused "out" local variable.(³±ıÑ
